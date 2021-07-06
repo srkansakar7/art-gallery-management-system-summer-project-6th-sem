@@ -1,0 +1,41 @@
+a:hover{
+    color:red;
+    
+    text-decoration: none;
+}
+
+a{
+   color: white; 
+   text-decoration: none;
+}
+
+#main {   
+    color:#f1f1f1;
+    border: none;
+    overflow: hidden;      
+    background-color: rgba(0, 0, 0, 0.0)	;
+    transition: margin-left .5s;
+    
+}
+body {
+    
+    background-color: rgba(0, 0, 0, 0.85)	;
+    }
+
+h1{
+    color: whitesmoke;
+    padding-left: 25px;
+    
+}
+
+#main span{
+    position: fixed;
+    top: 6 ;
+    left: 0;
+    width: 100%;
+    background-color:rgba(0, 0, 0, 0);
+}
+#m{transition: margin-left .5s;
+}
+#m1{transition: margin-left .5s;
+}

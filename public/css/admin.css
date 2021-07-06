@@ -1,0 +1,48 @@
+body {
+    background: rgb(0, 0, 0); /* Fallback color */
+              background: rgba(0, 0, 0, 1); /* Black background with 0.5 opacity */
+      background-image: url('/css/img/zoro.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: cover;
+         
+         height:auto;
+         width:auto;
+      font-family: "Calibri", sans-serif;
+
+}
+
+table{
+
+color: ghostwhite;
+font-family: Calibri;
+font-size: 25px;
+margin-left: 30px;
+}
+
+
+#main {
+color:#f1f1f1;
+top:0px;
+left:0px;
+position:absolute;
+border: none;
+overflow: hidden;
+bottom:0px;
+right:0px;
+height:1000px;
+width:inherit;
+background-color: rgba(0, 0, 0, 0.5)	;
+transition: margin-left .5s;
+padding: 16px;
+}
+
+h1.logout{
+   color: aqua;
+ }
+
+ span {
+    position: fixed;
+    top: 0;
+    left: 0;
+ }
